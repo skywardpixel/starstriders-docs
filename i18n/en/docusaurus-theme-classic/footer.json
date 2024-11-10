@@ -18,5 +18,13 @@
   "copyright": {
     "message": "Copyright © 2024 Starstriders. Built with Docusaurus.",
     "description": "The footer copyright"
+  },
+  "link.item.label.Roster": {
+    "message": "Roster",
+    "description": "The label of footer link with label=Roster linking to /docs/raid-roster"
+  },
+  "link.item.label.Warcraft Logs": {
+    "message": "Warcraft Logs",
+    "description": "The label of footer link with label=Warcraft Logs linking to https://sod.warcraftlogs.com/guild/id/733956"
   }
 }

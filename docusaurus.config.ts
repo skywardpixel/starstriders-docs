@@ -97,6 +97,10 @@ const config: Config = {
               label: 'Rules',
               to: '/docs/rules',
             },
+            {
+              label: 'Roster',
+              to: '/docs/raid-roster',
+            },
           ],
         },
         {
@@ -105,6 +109,10 @@ const config: Config = {
             {
               label: 'Discord',
               href: 'https://discord.gg/XPVzwAdv',
+            },
+            {
+              label: 'Warcraft Logs',
+              href: 'https://sod.warcraftlogs.com/guild/id/733956',
             },
           ],
         },
