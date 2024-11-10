@@ -20,7 +20,7 @@ export default function Home(): JSX.Element {
           <Heading as="h1" className={styles.heroTitle}>
             <Translate>Hello from Starstriders</Translate>
           </Heading>
-          <p className="hero__subtitle">{siteConfig.tagline}</p>
+          <p className="hero__subtitle"><Translate>We aim for the stars!</Translate></p>
           <div className={styles.buttons}>
             <Link
               className="button button--secondary button--lg"
