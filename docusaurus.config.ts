@@ -10,7 +10,7 @@ const config: Config = {
   favicon: 'img/favicon.ico',
 
   // Set the production url of your site here
-  url: 'https://www.starstriders.org',
+  url: 'https://starstriders.org',
   // Set the /<baseUrl>/ pathname under which your site is served
   // For GitHub pages deployment, it is often '/<projectName>/'
   baseUrl: '/',
