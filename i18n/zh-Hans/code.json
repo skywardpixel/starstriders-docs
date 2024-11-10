@@ -312,5 +312,8 @@
   "theme.tags.tagsPageTitle": {
     "message": "Tags",
     "description": "The title of the tag list page"
+  },
+  "Hello from Starstriders": {
+    "message": "逐星者公会向你问好"
   }
 }

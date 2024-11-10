@@ -18,7 +18,7 @@ export default function Home(): JSX.Element {
       <div className={styles.heroContainer}>
         <main>
           <Heading as="h1" className={styles.heroTitle}>
-            Starstriders
+            <Translate>Hello from Starstriders</Translate>
           </Heading>
           <p className="hero__subtitle">{siteConfig.tagline}</p>
           <div className={styles.buttons}>

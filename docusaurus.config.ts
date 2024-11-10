@@ -6,7 +6,7 @@ import type * as Preset from '@docusaurus/preset-classic';
 
 const config: Config = {
   title: 'Starstriders',
-  tagline: '',
+  tagline: 'Aim for the stars.',
   favicon: 'img/favicon.ico',
 
   // Set the production url of your site here
