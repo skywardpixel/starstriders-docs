@@ -21,3 +21,24 @@
   align-items: center;
   justify-content: center;
 }
+
+.heroContainer {
+  background-image: url(/img/galaxies.png);
+  background-size: cover;
+  background-position: center;
+  min-height: calc(100vh - 60px);
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  color: white;
+  text-align: center;
+  width: 100vw;
+  margin: 0;
+}
+
+.heroTitle {
+  font-size: 4rem;
+  font-weight: bold;
+  text-shadow: 2px 2px 8px rgba(0, 0, 0, 0.7);
+}
