@@ -4,6 +4,8 @@ sidebar_position: 1
 
 # Raid Rules
 
+Last Updated: Nov 30, 2024
+
 ## General Rules
 
 1. We regularly do BWL on Saturdays at 6am, MC on Sundays at 6am (server time). We will start on time, so please be on time.
