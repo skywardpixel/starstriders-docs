@@ -27,9 +27,10 @@ sidebar_position: 1
    2. Legendaries, mats and recipes are HR'd to guild.
    3. Gear with Spell Damage = Spell Healing (like Lok'amir) is Caster DPS prio; Spell Damage < Spell Healing is Healer prio.
 2. Starting next week (Nov 9 raid), we will add a `+1` to non-SR rolls. That means when you win an item with a non-SR roll, you will have a "debuff" (`+1`) that makes your subsequent non-SR rolls lower priority than those without this debuff (`+0`). Similarly, if you win another item with a non-SR roll, you will gain another stack of this debuff (now you have `+2`), and your rolls will have lower priority than those without the debuff (`+0`) or with only 1 stack (`+1`). Note that MS rolls will still have priority over OS rolls.
-3. In summary, `2SR > MS+0 > MS+1 > MS+2 > ... > OS`.
-4. The rationale of adding this rule is to protect raiders who have been consistently raiding with us. This prevents PUGs and new characters from SR-ing rare non-tier items while also vacuuming many tier tokens (b/c tier tokens are less contended towards the end of the phase).
-5. Legendaries, Mats, Recipes are still reserved to the guild.
+   1. In summary, `2SR > MS+0 > MS+1 > MS+2 > ... > OS`.
+   2. OS rolls and uncontested MS rolls do not count towards `+1`.
+3. The rationale of adding this rule is to protect raiders who have been consistently raiding with us. This prevents PUGs and new characters from SR-ing rare non-tier items while also vacuuming many tier tokens (b/c tier tokens are less contended towards the end of the phase).
+4. Legendaries, Mats, Recipes are still reserved to the guild.
 
 ### Other Raids: 1SR/2SR
 
